@@ -1,6 +1,7 @@
 # quick run
 
 scan this QR code using expo go APP
+
 ![Published QR Code](/assets/expo-go.svg)
 
 # Installation 
