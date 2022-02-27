@@ -1,6 +1,6 @@
-# quick run
+# Quick run
 
-scan this QR code using expo go APP
+scan this QR code using (expo go APP)[https://expo.dev/client]
 
 ![Published QR Code](/assets/expo-go.svg)
 
