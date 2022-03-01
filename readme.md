@@ -17,7 +17,7 @@ scan this QR code using [expo go APP](https://expo.dev/client)
 
 ___
 # Installation 
-make sure you have expo installed if not then run `npm install expo-cli`
+make sure you have expo installed if not then run `npm install -g expo-cli`
 
 `yarn install` to install project depedencies
 
